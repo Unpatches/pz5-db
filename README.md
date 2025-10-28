@@ -51,5 +51,9 @@ pz5-db/
 ### Запуск сервера после изменений
 <img width="789" height="341" alt="image" src="https://github.com/user-attachments/assets/4df9d665-5a44-4d1c-93f4-f622fc882236" />
 
+### в psql
+<img width="599" height="249" alt="image" src="https://github.com/user-attachments/assets/611ddcc1-465c-4bf2-87c1-63bb5fc54c3b" />
+
+
 
 
